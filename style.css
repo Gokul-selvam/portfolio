@@ -1,0 +1,63 @@
+header{
+    
+    background-color: rgb(0, 239, 131);
+    padding: 10px;
+}
+header,h1{
+    color :rgb(27, 26, 26);
+}
+h1,ul{
+    text-align: center;
+   
+   
+
+    
+}
+ul,li{
+    display: inline;
+    padding-left: 85px;
+    padding-right: 20px;
+    color:whitesmoke;
+    font-size: 20px;
+    text-align: center;
+   
+}
+ul a{
+     text-decoration: none;
+}
+#home,h2{
+      color: black;
+      background-color:rgb(212, 178, 115);
+    
+
+      
+}
+#home,p{
+    font-size: 20px;
+}
+#about{
+    text-align: center;
+    padding-bottom: 20px;
+}
+#about img{
+    padding-top: 20px;
+    border-radius: 40px;
+    padding-bottom: 20px;
+}
+#about,pre{
+    font-family:'Times New Roman', Times, serif
+}
+#portfolio{
+    background-color: rgb(187, 218, 50);
+   
+}   
+#skills,li{
+  color: rgb(50, 5, 5);
+}
+#contact{
+    background-color: teal;
+}
+marquee{
+    background-color: rgb(94, 11, 172);
+    color: aliceblue;
+}
